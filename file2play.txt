@@ -1,0 +1,7 @@
+This file was created to be modified !!
+<<<<<<< HEAD
+second line!!!!
+=======
+Second line!!!!
+Third line!!!!
+>>>>>>> testing
